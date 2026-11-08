@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_char"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS char component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_char"
+path = "src/lib.rs"
