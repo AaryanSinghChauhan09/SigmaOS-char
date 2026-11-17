@@ -3,7 +3,7 @@ name = "SigmaOS-char"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "char component"
+description = "SigmaOS SigmaOS-char component"
 upstream = []
 
 [contract]
